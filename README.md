@@ -16,7 +16,8 @@
 - 📫 How to reach me **aishwarygathe@gmail.com**
 
 - ⚡ Fun fact **You Know What your Smile makes My day😍**
-
+<div style="border-radius: 50%;"><img align="right" alt="coding1" width="300" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aishwarygathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aishwarygathe" height="30" width="40" /></a>
