@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aishwary Gathe</h1>
+![](https://user-images.githubusercontent.com/78863428/224938123-b3016a27-0a0c-488b-839f-28e04a94e4aa.gif)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarygathe&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarygathe" /> </p>
