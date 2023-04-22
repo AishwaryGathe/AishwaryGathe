@@ -35,4 +35,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarygathe&" alt="aishwarygathe" /></p>
 
-<p><img src="https://raw.githubusercontent.com/A/A/blob/output/snake.svg" alt="Snake animation" /></p>
+<div align="center">
+  <a href="https://open.spotify.com/user/58kgftfbnm0uvt6hsy5vf1q1m">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=58kgftfbnm0uvt6hsy5vf1q1m" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
