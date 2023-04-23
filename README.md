@@ -19,12 +19,23 @@
 <div style="border-radius: 50%;"><img align="right" alt="coding1" width="300" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
 </div>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aishwarygathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aishwarygathe" height="30" width="40" /></a>
-<a href="https://fb.com/aishwary.gathe.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aishwary.gathe.20" height="30" width="40" /></a>
-<a href="https://instagram.com/aishwary_gathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aishwary_gathe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aishwary jayant gathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aishwary jayant gathe" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/aishwarygathe/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/aishwarygathe" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@ExcutePy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="aishwarygathe@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/aishwarygathe" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -46,11 +57,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=A&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aishwarygathe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarygathe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aishwarygathe&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
 
 <div align="center">
   <a href="https://open.spotify.com/user/58kgftfbnm0uvt6hsy5vf1q1m">
