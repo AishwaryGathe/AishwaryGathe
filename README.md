@@ -1,9 +1,9 @@
 ![](https://user-images.githubusercontent.com/78863428/224938123-b3016a27-0a0c-488b-839f-28e04a94e4aa.gif)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarygathe&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarygathe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aishwarygathe&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarygathe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwarygathe" alt="aishwarygathe" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwarygathe" alt="aishwarygathe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aishwarygathe" target="blank"><img src="https://img.shields.io/twitter/follow/aishwarygathe?logo=twitter&style=for-the-badge" alt="aishwarygathe" /></a> </p>
 
