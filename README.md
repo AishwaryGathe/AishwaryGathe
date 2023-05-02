@@ -16,8 +16,6 @@
 - 📫 How to reach me **aishwarygathe@gmail.com**
 
 - ⚡ Fun fact **You Know What your Smile makes My day😍**
-<div style="border-radius: 50%;"><img align="right" alt="coding1" width="300" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
-</div>
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 <a href="https://github.com/aishwarygathe" target="_blank">
@@ -38,7 +36,9 @@
 <a href="https://www.youtube.com/c/ExcutePy" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> 
+<div style="border-radius: 50%;" align = "center"><img align="center" alt="coding1" width="300" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
