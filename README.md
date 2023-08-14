@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarygathe&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarygathe" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwarygathe" alt="aishwarygathe" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/aishwarygathe" target="blank"><img src="https://img.shields.io/twitter/follow/aishwarygathe?logo=twitter&style=for-the-badge" alt="aishwarygathe" /></a> </p>
 
 - 🌱 I’m currently learning **C,C++,Java,HTML&CSS**
