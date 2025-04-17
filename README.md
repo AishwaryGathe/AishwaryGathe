@@ -14,24 +14,6 @@
 👋 Hi, I'm Aishwary Gathe. I love exploring cutting-edge technologies and building impactful projects. Currently, I'm organizing events, working on my own terminal-based portfolio, and diving deeper into cybersecurity.
 </div>
 
-<h2 align="left"> 🛠 Experience</h2>
-<div align="left">
-  
-**Social Jin**  
-*Intern*  
-_July 2024 - Present_  
-- Digital marketing and content optimization.
-
-**Learner's Den**  
-*Co-Founder*  
-_2023 - Present_  
-- Organized events and guided members.
-
-**AI + DATA Tour** 
-*Participant*  
-_June 2024_  
-- Networked with professionals.
-</div>
 <h2 align="left">Languages</h2>
 <div align="left">
   
