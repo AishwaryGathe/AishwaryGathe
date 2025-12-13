@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=30&pause=1000&color=00F71D&lines=We+code+the+future;We+forge+the+code.;We+decode+the+matrix)](https://git.io/typing-svg)
 </div>
 
-![](https://user-images.githubusercontent.com/78863428/224938123-b3016a27-0a0c-488b-839f-28e04a94e4aa.gif)
+![Abstract Technology Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/922796ef-856c-4a13-b4ad-31e64b257aef)
 
 <h2 align="left">About Me</h2>
 <div align="Center">
