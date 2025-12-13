@@ -1,9 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarygathe&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarygathe" />  
   
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=30&pause=1000&color=00F71D&lines=We+code+the+future;We+forge+the+code.;We+decode+the+matrix)](https://git.io/typing-svg)
-</div>
 
 ![Abstract Technology Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/922796ef-856c-4a13-b4ad-31e64b257aef)
 
